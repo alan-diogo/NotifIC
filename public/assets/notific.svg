@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="150" viewBox="0 0 500 150" role="img" aria-label="./notifIC logo">
+  <defs>
+    <linearGradient id="yellowGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700"></stop>
+      <stop offset="100%" stop-color="#FFA500"></stop>
+    </linearGradient>
+  </defs>
+
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, sans-serif" font-weight="700" font-size="60">
+    <tspan fill="#95a5a6" font-weight="500" font-size="50">./</tspan><tspan fill="#000000">notif</tspan><tspan fill="url(#yellowGradient)">IC</tspan>
+  </text>
+</svg>
